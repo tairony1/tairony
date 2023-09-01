@@ -2,10 +2,11 @@
 
 I’m a Software Engineer and big fan of Halloween culture ♥
 
-<img src="https://media4.giphy.com/media/TexuCBs2uUjrw34gdU/giphy.gif" height="200" > <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHhpYWhqbnFzY3RrOTM2aTdoaWxveHA0eTM0aWZ4cTljbXFheWN1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lXiRqlFPhSYbt7ceQ/giphy.gif" height="200" >
+<img src="https://media4.giphy.com/media/TexuCBs2uUjrw34gdU/giphy.gif" height="200" >
 
 <!--
 **tairony1/tairony1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHhpYWhqbnFzY3RrOTM2aTdoaWxveHA0eTM0aWZ4cTljbXFheWN1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lXiRqlFPhSYbt7ceQ/giphy.gif" height="200" >
 
 Here are some ideas to get you started:
 
