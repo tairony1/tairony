@@ -1,6 +1,8 @@
 ### Hi, I'm Tairony <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
-I’m a Software Engineer.
+I’m a Software Engineer and big fan of Halloween culture
+
+<img src="https://media4.giphy.com/media/TexuCBs2uUjrw34gdU/giphy.gif" width="100" >
 
 <!--
 **tairony1/tairony1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
