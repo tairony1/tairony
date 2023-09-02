@@ -2,7 +2,7 @@
 
 I’m a Software Engineer and big fan of Halloween culture 🎃
 
-<img src="https://media4.giphy.com/media/TexuCBs2uUjrw34gdU/giphy.gif" height="200" >
+<img src="https://media4.giphy.com/media/TexuCBs2uUjrw34gdU/giphy.gif" height="150" >
 
 <!--
 **tairony1/tairony1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
